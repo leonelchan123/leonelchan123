@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 ⚡ Desarrollo aplicaciones para Android con Kotlin y Java. Tengo experiencia con retrofit, firebase, maps, fragments, viewbinding, MVVM, Git/Github, Bitbucket. . Me gusta trabajar en equipo, aprender cosas nuevas y apoyar a otros desarrolladores. Soy autodidacta y disfruto aprendiendo nuevos desafíos que conlleven tecnología, especialmente con el desarrollo móvil. Pienso que las herramientas tecnológicas pueden ser fuerzas poderosas si las usamos correctamente en muchas áreas de nuestras vidas. Tengo la intención de seguir creciendo y alcanzar mis metas tanto en mi vida profesional como personal.
 
