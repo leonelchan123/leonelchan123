@@ -6,7 +6,9 @@
  
 😄 Me gusta trabajar en equipo, aprender cosas nuevas y apoyar a otros desarrolladores. 
 
-😄 Soy autodidacta y disfruto aprendiendo nuevos desafíos que conlleven tecnología, especialmente con el desarrollo móvil. Pienso que las herramientas tecnológicas pueden ser fuerzas poderosas si las usamos correctamente en muchas áreas de nuestras vidas. Tengo la intención de seguir creciendo y alcanzar mis metas tanto en mi vida profesional como personal.
+😄 Soy autodidacta y disfruto aprendiendo nuevos desafíos que conlleven tecnología, especialmente con el desarrollo móvil. Pienso que las herramientas tecnológicas pueden ser fuerzas poderosas si las usamos correctamente en muchas áreas de nuestras vidas. 
+
+😄 Tengo la intención de seguir creciendo y alcanzar mis metas tanto en mi vida profesional como personal.
 
 <!--
 **leonelchan123/leonelchan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
